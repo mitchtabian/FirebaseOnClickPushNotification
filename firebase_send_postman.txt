@@ -1,0 +1,13 @@
+{
+  "to": 
+    "/topics/NEWS"
+  ,
+  "data": {
+    "extra_information": "This is some extra information"
+  },
+  "notification": {
+    "title": "NEW NOTIFICATION!",
+    "text": "Click me to open an Activity!",
+    "click_action": "SOMEACTIVITY"
+  }
+}
